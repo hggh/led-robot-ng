@@ -1,5 +1,5 @@
 # led-robot-ng
 
 
-![robot-ng.jpg](https://raw.githubusercontent.com/hggh/led-guy-ng/master/pics/robot-ng.jpg)
+![robot-ng.jpg](https://raw.githubusercontent.com/hggh/led-robot-ng/main/pics/robot-ng.jpg)
 
